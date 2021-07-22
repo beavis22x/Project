@@ -16,6 +16,8 @@ const options = {
 
 options.makeTest();
 
+
+//ДЕКОНСТРУКЦИЯ
 const {border, bg} = options.colors;
 console.log(border);
 
